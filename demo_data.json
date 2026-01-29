@@ -1,0 +1,134 @@
+[
+  {
+    "name": "Weight loss – No breakfast – Home training",
+    "profile": {
+      "age": 28,
+      "gender": "Male",
+      "height_cm": 178,
+      "weight_kg": 90,
+      "training_level": "Beginner",
+      "goal": "Weight loss",
+      "diet_prefs": "No breakfast",
+      "hours_per_week": 4,
+      "equipment": "Home (dumbbells, resistance bands)",
+      "constraints": "No breakfast, limited time"
+    },
+    "strategy": "## Global Strategy\n- Short name: Sustainable caloric deficit with strength focus\n- High-level description: The strategy focuses on a moderate caloric deficit while maintaining muscle mass through full-body strength training at home.\n\n## Training Philosophy\nLow-impact full-body workouts 3–4 times per week using dumbbells and bodyweight exercises.\n\n## Nutrition Philosophy\nCalories redistributed across lunch and dinner only, ensuring adequate protein intake despite skipping breakfast.\n\n## Pros\n- Sustainable\n- Easy to follow at home\n\n## Cons\n- Slower fat loss compared to aggressive deficits",
+    "evaluation": "The strategy is safe and realistic for a beginner. Skipping breakfast is properly handled by redistributing calories later in the day.",
+    "final_plan": {
+      "nutrition": "Focus on two main meals (lunch and dinner) with high protein content. Snacks are optional. Hydration and fiber intake are emphasized.",
+      "training": "3 full-body sessions per week focusing on compound movements (squats, push-ups, rows) with progressive overload.",
+      "notes": "Breakfast removed. Calories redistributed to lunch and dinner."
+    }
+  },
+  {
+    "name": "Muscle gain – Full gym – 5h/week",
+    "profile": {
+      "age": 24,
+      "gender": "Female",
+      "height_cm": 165,
+      "weight_kg": 58,
+      "training_level": "Intermediate",
+      "goal": "Muscle gain",
+      "diet_prefs": "No specific restriction",
+      "hours_per_week": 5,
+      "equipment": "Full gym",
+      "constraints": "None"
+    },
+    "strategy": "## Global Strategy\n- Short name: Progressive hypertrophy\n- High-level description: A structured hypertrophy program combining progressive overload and adequate caloric surplus.\n\n## Training Philosophy\nSplit training (upper/lower) 4–5 times per week.\n\n## Nutrition Philosophy\nSlight caloric surplus with high protein intake spread evenly across meals.\n\n## Pros\n- Efficient muscle gain\n- Clear progression\n\n## Cons\n- Requires consistency",
+    "evaluation": "The strategy matches the user's goal and available time. Full gym access allows optimal exercise selection.",
+    "final_plan": {
+      "nutrition": "4 meals per day with emphasis on protein and complex carbohydrates to support muscle growth.",
+      "training": "Upper/lower split with compound lifts (squat, bench press, rows) and accessory work.",
+      "notes": "Volume and intensity adapted to intermediate level."
+    }
+  },
+  {
+    "name": "Body recomposition – Intermediate – No dairy",
+    "profile": {
+      "age": 30,
+      "gender": "Male",
+      "height_cm": 180,
+      "weight_kg": 82,
+      "training_level": "Intermediate",
+      "goal": "Body recomposition",
+      "diet_prefs": "No dairy",
+      "hours_per_week": 4,
+      "equipment": "Gym access",
+      "constraints": "No dairy products"
+    },
+    "strategy": "## Global Strategy\n- Short name: Recomposition via strength and nutrition control\n- High-level description: Maintain calories around maintenance while improving body composition through structured training.\n\n## Training Philosophy\nFull-body training with progressive overload.\n\n## Nutrition Philosophy\nBalanced macros without dairy, using alternative protein sources.\n\n## Pros\n- Improves strength and physique\n\n## Cons\n- Results slower than pure bulk or cut",
+    "evaluation": "The plan respects dietary constraints and supports recomposition effectively.",
+    "final_plan": {
+      "nutrition": "Maintenance calories with plant-based or meat protein sources replacing dairy.",
+      "training": "3–4 full-body sessions emphasizing compound lifts.",
+      "notes": "All dairy products replaced with suitable alternatives."
+    }
+  },
+  {
+    "name": "Knee pain – Low impact training",
+    "profile": {
+      "age": 35,
+      "gender": "Female",
+      "height_cm": 168,
+      "weight_kg": 70,
+      "training_level": "Beginner",
+      "goal": "General health",
+      "diet_prefs": "None",
+      "hours_per_week": 3,
+      "equipment": "Home",
+      "constraints": "Knee pain, no jumping or running"
+    },
+    "strategy": "## Global Strategy\n- Short name: Joint-friendly fitness\n- High-level description: Improve overall fitness while protecting knee joints.\n\n## Training Philosophy\nLow-impact exercises focusing on strength and mobility.\n\n## Nutrition Philosophy\nBalanced diet supporting recovery and joint health.\n\n## Pros\n- Safe\n- Low injury risk\n\n## Cons\n- Limited cardio intensity",
+    "evaluation": "The strategy avoids high-impact movements and is well-suited for knee pain.",
+    "final_plan": {
+      "nutrition": "Balanced meals with anti-inflammatory foods.",
+      "training": "Strength exercises like glute bridges, seated upper body work, cycling or walking.",
+      "notes": "All jumping and running movements excluded."
+    }
+  },
+  {
+    "name": "Vegan – Protein constraints",
+    "profile": {
+      "age": 27,
+      "gender": "Male",
+      "height_cm": 175,
+      "weight_kg": 68,
+      "training_level": "Intermediate",
+      "goal": "Muscle gain",
+      "diet_prefs": "Vegan",
+      "hours_per_week": 4,
+      "equipment": "Gym access",
+      "constraints": "Vegan diet, protein planning required"
+    },
+    "strategy": "## Global Strategy\n- Short name: Vegan hypertrophy\n- High-level description: Muscle gain through plant-based nutrition and structured resistance training.\n\n## Training Philosophy\nHypertrophy-oriented split training.\n\n## Nutrition Philosophy\nHigh-protein vegan diet using legumes, tofu, tempeh, and supplements if needed.\n\n## Pros\n- Ethical\n- Sustainable\n\n## Cons\n- Requires careful nutrition planning",
+    "evaluation": "Protein constraints are properly addressed with plant-based alternatives.",
+    "final_plan": {
+      "nutrition": "Protein spread across meals using diverse vegan sources.",
+      "training": "4 gym sessions per week focusing on progressive overload.",
+      "notes": "Protein intake carefully planned despite vegan constraints."
+    }
+  },
+  {
+    "name": "Beginner – Back pain – No deadlifts",
+    "profile": {
+      "age": 40,
+      "gender": "Male",
+      "height_cm": 172,
+      "weight_kg": 78,
+      "training_level": "Beginner",
+      "goal": "General health",
+      "diet_prefs": "None",
+      "hours_per_week": 3,
+      "equipment": "Home",
+      "constraints": "Lower back pain, avoid deadlifts"
+    },
+    "strategy": "## Global Strategy\n- Short name: Back-safe beginner fitness\n- High-level description: Build basic strength while protecting the lower back.\n\n## Training Philosophy\nCore stability and controlled movements.\n\n## Nutrition Philosophy\nBalanced diet supporting recovery.\n\n## Pros\n- Safe for beginners\n\n## Cons\n- Limited exercise selection",
+    "evaluation": "The plan avoids spinal loading and is appropriate for back pain.",
+    "final_plan": {
+      "nutrition": "Balanced meals with adequate protein.",
+      "training": "Exercises like split squats, push-ups, resistance band rows, core stability work.",
+      "notes": "Deadlifts and heavy spinal loading removed."
+    }
+  }
+]
